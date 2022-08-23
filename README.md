@@ -8,7 +8,7 @@
 - in: linkedin.com/in/ericdnewcomer
 -
 -
--  22-AUG-22    .ME  0.0.001
+-  22-AUG-22    .md  0.0.003
 
 <!---
 newc007/newc007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
